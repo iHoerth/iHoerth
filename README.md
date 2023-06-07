@@ -10,6 +10,10 @@
 
 Hi! I´m a Fullstack Developer, focused on React & Node.js. I am self-taught enthusiast, have been learning and working with React for almost 2 years now. Currently working on 4 projects, always looking forward to learn and improve my codestyle. I've always loved logic and puzzles, that's why I love solving code problems / algorithms.
 
+Come check my portfolio 
+<a href="https://twitter.com/nachohoerth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Portfolio" height="30" width="40" /></a>
+
+
 ## Tech Stack:
 
 ### Core
@@ -39,9 +43,11 @@ Hi! I´m a Fullstack Developer, focused on React & Node.js. I am self-taught ent
 - ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## Socials:
+## Contact:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ignaciohoerth/)
+<a href="https://twitter.com/nachohoerth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ignacio Hoerth" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ignaciohoerth/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ignacio Hoerth" height="30" width="40" /></a>
+<a href="https://instagram.com/nachohoerth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ignacio Hoerth" height="30" width="40" /></a>
 
 ---
 
