@@ -1,5 +1,7 @@
 <h1 align="center">Ignacio Hoerth</h1>
+
 # Ignacio Hoerth
+
 Junior React Developer
 
 ##  About Me:
