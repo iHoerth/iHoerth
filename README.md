@@ -44,16 +44,13 @@ Hi! I´m a Fullstack Developer, focused on React & Node.js. I am self-taught ent
 
 ## Check my Portfolio
 Repository
-<a href="https://twitter.com/nachohoerth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Portfolio" height="30" width="40" /></a>
+<a href="https://github.com/iHoerth/Portfolio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Portfolio" height="30" width="40" /></a>
 Deploy
 <a href="https://twitter.com/nachohoerth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vercel.svg" alt="Portfolio" height="30" width="40" /></a>
 
 
-## Contact:
-
-<a href="https://twitter.com/nachohoerth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ignacio Hoerth" height="30" width="40" /></a>
+## Conect with me:
 <a href="https://www.linkedin.com/in/ignaciohoerth/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ignacio Hoerth" height="30" width="40" /></a>
-<a href="https://instagram.com/nachohoerth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ignacio Hoerth" height="30" width="40" /></a>
 
 ---
 
