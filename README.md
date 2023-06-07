@@ -10,8 +10,7 @@
 
 Hi! I´m a Fullstack Developer, focused on React & Node.js. I am self-taught enthusiast, have been learning and working with React for almost 2 years now. Currently working on 4 projects, always looking forward to learn and improve my codestyle. I've always loved logic and puzzles, that's why I love solving code problems / algorithms.
 
-Come check my portfolio 
-<a href="https://twitter.com/nachohoerth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Portfolio" height="30" width="40" /></a>
+
 
 
 ## Tech Stack:
@@ -42,6 +41,13 @@ Come check my portfolio
 - ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 - ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## Check my Portfolio
+Repository
+<a href="https://twitter.com/nachohoerth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Portfolio" height="30" width="40" /></a>
+Deploy
+<a href="https://twitter.com/nachohoerth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vercel.svg" alt="Portfolio" height="30" width="40" /></a>
+
 
 ## Contact:
 
