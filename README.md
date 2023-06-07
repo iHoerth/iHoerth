@@ -1,15 +1,8 @@
 <div style="text-align: center;">
 
-<h1>
- Ignacio Hoerth 
- 
-</h1>
-
-<h3>
+<h1> Ignacio Hoerth </h1>
 
 **_Junior React Developer_**
-
-</h3>
 
 </div>
 
