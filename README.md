@@ -1,6 +1,8 @@
 <div style="text-align: center;">
 <h1> Ignacio Hoerth </h1>
+  
 **_Junior React Developer_**
+  
 </div>
 
 ## About Me:
