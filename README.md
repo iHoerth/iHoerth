@@ -1,7 +1,16 @@
-<div align='center'>
-<h1> Ignacio Hoerth </h1>
+<div style="text-align: center;">
+
+<h1>
+ Ignacio Hoerth 
+ 
+</h1>
+
+<h3>
 
 **_Junior React Developer_**
+
+</h3>
+
 </div>
 
 ## About Me:
