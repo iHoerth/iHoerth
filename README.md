@@ -1,4 +1,4 @@
-# <h1 align="center">Ignacio Hoerth</h1>
+<h1 align="center">Ignacio Hoerth</h1>
 
 ##  About Me:
 Hi! I´m a Fullstack Developer, focused on React & Node.js. I am self-taught enthusiast, have been learning and working with React for almost 2 years now. Currently working on 4 projects, always looking forward to learn and improve my codestyle. I've always loved logic and puzzles, that's why I love solving code problems / algorithms.
