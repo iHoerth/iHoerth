@@ -44,10 +44,10 @@ Hi! I´m a Fullstack Developer, focused on React & Node.js. I am self-taught ent
 
 
 # Conect with me:
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ignaciohoerth/)
 </br>
 
-### You can check my portfolio <a href='https://github.com/iHoerth/Portfolio'>here</a>.
+### You can check my portfolio <a href='https://ignaciohoerth.vercel.app/'>here</a>.
 
 ---
 
