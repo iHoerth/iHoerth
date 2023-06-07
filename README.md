@@ -1,8 +1,8 @@
-# 💫 About Me:
-Fullstack developer 
+#  About Me:
+Hi! I´m a Fullstack Developer, focused on React & Node.js. I am self-taught enthusiast, have been learning and working with React for almost 2 years now. 
+  
 
-
-## 🌐 Socials:
+# Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ignaciohoerth/) 
 
 # 💻 Tech Stack:
