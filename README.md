@@ -6,14 +6,13 @@
 
 </div>
 
-## About Me:
+# About Me:
 
-Hi! I´m a Fullstack Developer, focused on React & Node.js. I am self-taught enthusiast, have been learning and working with React for almost 2 years now. Currently working on 4 projects, always looking forward to learn and improve my codestyle. I've always loved logic and puzzles, that's why I love solving code problems / algorithms.
-
-
+Hi! I´m a Fullstack Developer, focused on React & Node.js. I am self-taught enthusiast, have been learning and working with React for almost 2 years now. Currently working on 4 projects, always looking forward to learn and improve my codestyle. I've always loved logic and puzzles, that's why I love solving code problems / algorithms. 
 
 
-## Tech Stack:
+
+# Tech Stack:
 
 ### Core
 
@@ -42,17 +41,13 @@ Hi! I´m a Fullstack Developer, focused on React & Node.js. I am self-taught ent
 - ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## Check my Portfolio
-Repository
-<a href="https://github.com/iHoerth/Portfolio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Portfolio" height="30" width="40" /></a>
-Deploy
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vercel" />
-  </a>
 
 
-## Conect with me:
-<a href="https://www.linkedin.com/in/ignaciohoerth/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ignacio Hoerth" height="30" width="40" /></a>
+# Conect with me:
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+</br>
+
+### You can check my portfolio <a href='https://github.com/iHoerth/Portfolio'>here</a>.
 
 ---
 
