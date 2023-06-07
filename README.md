@@ -46,7 +46,9 @@ Hi! I´m a Fullstack Developer, focused on React & Node.js. I am self-taught ent
 Repository
 <a href="https://github.com/iHoerth/Portfolio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Portfolio" height="30" width="40" /></a>
 Deploy
-<a href="https://twitter.com/nachohoerth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vercel.svg" alt="Portfolio" height="30" width="40" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vercel" />
+  </a>
 
 
 ## Conect with me:
