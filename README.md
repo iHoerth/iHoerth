@@ -2,7 +2,7 @@
 
 <h1> Ignacio Hoerth </h1>
 
-**_Junior React Developer_**
+**_Fullstack Developer_**
 
 </div>
 
